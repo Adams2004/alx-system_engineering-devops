@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# This sript displays a list of currently running processe 
+#  1-list_your_processes: Displays a list of currently running processes.
 
 ps -u
