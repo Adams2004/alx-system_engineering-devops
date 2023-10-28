@@ -2,4 +2,4 @@
 
 #This Script displays it own PID
 
-echo $BASHPID
+echo $$
